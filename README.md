@@ -23,7 +23,7 @@ Of course, feel free to customize the applciation to your liking and contribute 
 * Star this repository
 * Wait for pull request to merge
 * Celebrate your first step into the open source world and contribute more!
-<br>
+
 # Thank you for visiting!
 <br>
 [Have Questions? Contact me here](https://twitter.com/ashes060800)
