@@ -15,14 +15,14 @@ Some key features include:
 Of course, feel free to customize the applciation to your liking and contribute to future developments of the game!
 <br>
 ## Getting Started
-Fork this repository
-Clone your forked repository
-Add your scripts
-Commit and push
-Create a pull request
-Star this repository
-Wait for pull request to merge
-Celebrate your first step into the open source world and contribute more!
+* Fork this repository
+* Clone your forked repository
+* Add your scripts
+* Commit and push
+* Create a pull request
+* Star this repository
+* Wait for pull request to merge
+* Celebrate your first step into the open source world and contribute more!
 <br>
 # Thank you for visiting!
 <br>
