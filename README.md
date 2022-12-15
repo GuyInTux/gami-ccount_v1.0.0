@@ -6,7 +6,8 @@ Gami-ccount is a simple product that introduces the application of gamification 
 Some key features include:
 <br>
 <br>
-👉The ability to upload custom question sets (Check the attached question set template for reference!) <br>
+👉Customize question pool (Check the attached question set template for reference!) <br>
+👉Login & Register your user Account for High Score Records <br>
 👉Cool BGM and SFX <br>
 👉Multiplayer Leaderboard <br>
 👉..and many more! <br>
