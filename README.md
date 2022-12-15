@@ -25,5 +25,5 @@ Of course, feel free to customize the applciation to your liking and contribute 
 * Celebrate your first step into the open source world and contribute more!
 
 # Thank you for visiting!
-<br>
+
 [Have Questions? Contact me here](https://twitter.com/ashes060800)
