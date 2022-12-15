@@ -22,4 +22,8 @@ Commit and push
 Create a pull request
 Star this repository
 Wait for pull request to merge
-Celebrate your first step into the open source world and contribute more
+Celebrate your first step into the open source world and contribute more!
+<br>
+# Thank you for visiting!
+<br>
+[Have Questions? Contact me here](https://twitter.com/ashes060800)
